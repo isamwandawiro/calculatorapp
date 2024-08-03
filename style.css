@@ -37,6 +37,10 @@ form .display input{
 }
 form input.equal{
   width: 145px;
+  background-color: rgb(14, 14, 13);
   
 
+}
+ form input.operator{
+  color: aquamarine;
 }
